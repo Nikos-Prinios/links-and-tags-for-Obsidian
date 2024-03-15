@@ -8,12 +8,12 @@ This script is designed for those of us using Obsidian to pen down thoughts, com
 
 This script lends a hand by tackling a few specific tasks:
 
-1. Copy Folder to Desktop: Works on a safe copy of your original vault.
-2. Initialize Glossary Files: Sets up blank Markdown files for each term in your glossary, waiting for your wisdom.
-3. Clean Filenames: Turns file names into cleaner, web-friendly versions.
-4. Manage Markdown Links: Clears out old Markdown links and tags, then introduces fresh ones based on your chosen keywords, keeping your pages interconnected.
-5. Tagging Content: Searches your Markdown content for certain keywords and tags them appropriately, helping you organize and categorize your writing.
-6. Folder Exclusion: Keeps specific folders, like "glossary," untouched during the tagging and linking process.
+    1. Copy Folder to Desktop: Works on a safe copy of your original vault.
+    2. Initialize Glossary Files: Sets up blank Markdown files for each term in your glossary, waiting for your wisdom.
+    3. Clean Filenames: Turns file names into cleaner, web-friendly versions.
+    4. Manage Markdown Links: Clears out old Markdown links and tags, then introduces fresh ones based on your chosen keywords, keeping your pages interconnected.
+    5. Tagging Content: Searches your Markdown content for certain keywords and tags them appropriately, helping you organize and categorize your writing.
+    6. Folder Exclusion: Keeps specific folders, like "glossary," untouched during the tagging and linking process.
 
 ## How to Use the Script
 
