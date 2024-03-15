@@ -19,12 +19,12 @@ This script lends a hand by tackling a few specific tasks:
 
 Here's how to get started:
 
-    Make sure Python is installed on your computer.
-    Gather your list of keywords. This can be a brainstorming session with yourself, or maybe ChatGPT can help generate a list based on your content's themes.
-    Place the script in a location you find convenient.
-    Adjust the original_vault_path and vault_path to fit your project's directory.
-    Run the script through your terminal or command line: python run-me.py
-    Check your project graph, tags and links and be seriously amazed.
+    1. Make sure Python is installed on your computer.
+    2. Gather your list of keywords. This can be a brainstorming session with yourself, or maybe ChatGPT can help generate a list based on your content's themes.
+    3. Place the script in a location you find convenient.
+    4. Adjust the original_vault_path and vault_path to fit your project's directory.
+    5. Run the script through your terminal or command line: python run-me.py
+    6. Check your project graph, tags and links and be seriously amazed.
 
 ## Contributing
 
